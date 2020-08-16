@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PyIOPlugin", "PyIOPlugin.vcxproj", "{88405F0E-918E-4523-8627-1380BC83A605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Profile|x64 = Profile|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88405F0E-918E-4523-8627-1380BC83A605}.Profile|x64.ActiveCfg = Profile|x64
+		{88405F0E-918E-4523-8627-1380BC83A605}.Profile|x64.Build.0 = Profile|x64
+		{88405F0E-918E-4523-8627-1380BC83A605}.Release|x64.ActiveCfg = Release|x64
+		{88405F0E-918E-4523-8627-1380BC83A605}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C13712-42B9-4F1E-BDAB-D1D4BBBACECB}
+	EndGlobalSection
+EndGlobal

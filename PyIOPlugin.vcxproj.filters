@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CTPython.cpp" />
+    <ClCompile Include="PyIOPlugin.cpp" />
+    <ClCompile Include="..\..\Support\Library\ofxsImageEffect.cpp">
+      <Filter>Support</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Support\Library\ofxsLog.cpp">
+      <Filter>Support</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Support\Library\ofxsMultiThread.cpp">
+      <Filter>Support</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Support\Library\ofxsParams.cpp">
+      <Filter>Support</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Support\Library\ofxsProperty.cpp">
+      <Filter>Support</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Support\Library\ofxsPropertyValidation.cpp">
+      <Filter>Support</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Support\Library\ofxsCore.cpp">
+      <Filter>Support</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Support\Library\ofxsInteract.cpp">
+      <Filter>Support</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CTPython.h" />
+    <ClInclude Include="PyIOPlugin.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Support">
+      <UniqueIdentifier>{8106dfd2-0216-4ad1-b615-6d8118d8bf73}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
