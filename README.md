@@ -1,6 +1,9 @@
 "# OfxPyIOPlugin"
+
 README.md
-PyIOPlugin OpenFX plugin
+
+PyIOPlugin OpenFX plugin:
+
 This is a test code to use python process images from openfx. tested in Davinci Resolve 16.
 Other software support openfx should works too.
 
