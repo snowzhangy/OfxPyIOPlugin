@@ -32,7 +32,7 @@ static CTPython *getCTPython()
 #define kSupportsTiles false
 #define kSupportsMultiResolution false
 #define kSupportsMultipleClipPARs false
-#define kPyScript "C:\\cinetec\\openfx\\plugins\\PythonIO\\pysample\\pyiotest.py"
+#define kPyScript "C:\\openfx\\plugins\\PythonIO\\pysample\\pyiotest.py"
 #define kPyInitFunction "py_init"
 #define kPyUpdateFunction "py_update"
 #define kPyShutdownFunction "py_shutdown"
