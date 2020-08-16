@@ -1,5 +1,7 @@
-"# OfxPyIOPlugin" 
+"# OfxPyIOPlugin"
+
 How to install
+
 1:create an folder struct like this
   openfx
   -----include  (put openfx 1.4 headers here)
